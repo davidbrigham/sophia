@@ -1,10 +1,10 @@
 body {
 }
-.pink-heart {
-  
+.new-heart:hover * {
+  fill: #9AD4D6;
 }
 .pink-heart:hover * {
-  fill: blue !important;
+  fill: blue;
 }
 .small-heart: {
   background: rgba(150, 150, 150, 0.5);
