@@ -1,0 +1,8 @@
+
+ <head>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+  </head>
+
+<svg xmlns="http://www.w3.org/2000/svg"
+class="new-heart"
+xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" preserveAspectRatio="xMidYMid meet" viewBox="113.1578947368421 146.3157894736842 87.36842105263155 75.78947368421049" width="87.37" height="75.79"><defs><path d="M178.68 146.32C190.75 146.32 200.53 156.51 200.53 169.07C200.53 203.88 156.84 221.15 156.84 222.11C156.84 222.11 156.84 222.11 156.84 222.11C156.84 221.15 113.16 203.88 113.16 169.07C113.16 156.5 122.94 146.32 135 146.32C147.06 146.32 156.84 155.24 156.84 167.81C156.84 155.24 166.62 146.32 178.68 146.32Z" id="bU55ZVNk"/></defs><g><g><use xlink:href="#bU55ZVNk" opacity="1" fill="#fc00f3" fill-opacity="1"/></g></g></svg>
