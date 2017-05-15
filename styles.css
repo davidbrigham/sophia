@@ -1,9 +1,15 @@
 article {
-  background-color: #FCF2FC;
+  background: linear-gradient(#9AD4D6, #FFAAB8);
+  border-radius: 15px;
+  box-sizing: border-box;
+  overflow: scroll;
+  padding: 10px;
   width: 95vw;
-  height: 95vh;
+  height: 100vh;
+  margin: auto;
 }
 body {
+  background-color: #E56399;
 }
 .heart {
   display: block;
@@ -21,11 +27,27 @@ body {
   border-radius: 95em;
   box-sizing: border-box;
   background-color: #564787;
-  margin: auto;
+  float: left;
+  margin: 1.5em;
   width: 25vh;
   height: 25vh;
 }
 .heart-box:hover {
   background-color: #E56399;
+}
+.message-box {
+  background-color: #9AD4D6;
+  box-sizing: border-box;
+  border: .3em outset #E56399;
+  border-radius: 10px;
+  color: #564787;
+  font-family: 'Indie Flower', 'Raleway',  cursive, sans-serif;
+  float: left;
+  font-size: 5em;
+  padding: .3em;
+}
+.message-box:hover {
+  background-color: #E56399;
+  border-color: #9AD4D6;
 }
 
